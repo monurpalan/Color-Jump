@@ -1,2 +1,2 @@
 # Color-Jump
-Color Jum in Unity 2D
+Color Jump in Unity 2D
